@@ -17,9 +17,9 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 //info
 global.owner = ['919233092990'] // I phone number in thlak rawh
 global.ownernumber = '919233092990' // I phone number in thlak rawh
-global.ownername = "Bawihpuia" // I hming dah tel bawk la
+global.ownername = "免费" // I hming dah tel bawk la
 global.location = "India, Mizoram, Lunglei" // I awmna hmun daha
-global.botname = "Bawihpuia" // I bot hming tur dah la
+global.botname = "免费" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "919233092990@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
