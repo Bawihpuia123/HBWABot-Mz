@@ -15,7 +15,7 @@ global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['91+91 9233942787'] // I phone number in thlak rawh
+global.owner = ['919233092990'] // I phone number in thlak rawh
 global.ownernumber = '919233942787' // I phone number in thlak rawh
 global.ownername = "免费" // I hming dah tel bawk la
 global.location = "India, Mizoram, Lunglei" // I awmna hmun daha
