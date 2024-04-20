@@ -24,7 +24,7 @@ global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "919233092990@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["918798168110@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["919233092990@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
